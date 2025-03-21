@@ -1,0 +1,3 @@
+([('blackjack_client',
+   '/Users/swarajkhair/Blackjack-Tkinter/dist/blackjack_client',
+   'EXECUTABLE')],)
